@@ -12,3 +12,9 @@ Olá, sou a Bia!
 </div>
 
 <gif src="https://tenor.com/view/bobs-burger-tina-belcher-fire-rage-louise-gif-12660998"/>
+
+<div> 
+ 
+ ![Snake animation](https://github.com/iroussenq/iroussenq/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
