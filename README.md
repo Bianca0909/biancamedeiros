@@ -5,6 +5,7 @@ Olá, sou a Bia!
 - 🌱 Atualmente estou aprendendo Angular, Typescript e SQL
 - 📫 Como entrar em contato comigo: biancamedeiros0909@gmail.com
 
+
 <div>
 <a href="https://github.com/bianca0909">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca0909&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,3 +19,8 @@ Olá, sou a Bia!
  ![Snake animation](https://github.com/iroussenq/iroussenq/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ <div>
+<gif src="https://c.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif">
+ </div>
+  
