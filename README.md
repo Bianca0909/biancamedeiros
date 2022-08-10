@@ -1,8 +1,8 @@
 Olá, sou a Bia!
 
-- 🧑‍💻 Cursando Ciência da Computação na Unisul, SC.
-- 🔭 Atualmente estou trabalhando em projetos backend e frontend
-- 🌱 Atualmente estou aprendendo Java avançado e banco de dados (SQL)
+- <span style='font-size:100px;'>&#128202;</span> <span style='font-size:100px;'>&#128187;</span> Cursando Ciência da Computação na Unisul, SC.
+- 🔭 Atualmente estou trabalhando em projetos backend 
+- 🌱 Atualmente estou estudando microsserviços e frontend
 - 📫 Como entrar em contato comigo: biancamedeiros0909@gmail.com
 
 
