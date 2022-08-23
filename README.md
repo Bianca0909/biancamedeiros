@@ -1,9 +1,9 @@
-Olá, sou a Bia!
+Hello! 
+- <span style='font-size:100px;'>&#128202;</span> <span style='font-size:100px;'>&#128187;</span> Studying Computer science at <a
+            href="https://loja.unisulonline.com.br/wp-content/uploads/2021/09/Ciencia-da-Computacao_Bacharelado.pdf">UNISUL</a>, SC.
+- <span style='font-size:100px;'>&#128138;</span> Working at <a href="https://triersistemas.com.br/"> Trier Sistemas </a>
+- How find me: <span style='font-size:100px;'>&#128231;</span>: Biancamedeiros0909@gmail.com
 
-- <span style='font-size:100px;'>&#128202;</span> <span style='font-size:100px;'>&#128187;</span> Cursando Ciência da Computação na Unisul, SC.
-- 🔭 Atualmente estou trabalhando em projetos backend 
-- 🌱 Atualmente estou estudando microsserviços e frontend
-- 📫 Como entrar em contato comigo: biancamedeiros0909@gmail.com
 
 
 <div>
