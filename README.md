@@ -8,7 +8,7 @@ Hello!
 
 <div> 
  
- ![Snake animation](https://github.com/iroussenq/iroussenq/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/bianca0909/bianca0909/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
