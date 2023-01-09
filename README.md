@@ -4,11 +4,4 @@ Hello!
 - <span style='font-size:100px;'>&#128138;</span> Working at <a href="https://triersistemas.com.br/"> Trier Sistemas </a>
 - How find me: <span style='font-size:100px;'>&#128231;</span>: Biancamedeiros0909@gmail.com
 
-<div> 
- 
-            
- ![Snake animation](https://github.com/bianca0909/bianca0909/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
   
