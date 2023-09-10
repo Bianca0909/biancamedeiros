@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome aboard 👋 </h1>
 
-<h4 align="left"> <img src = "https://www.ifsc.edu.br/image/layout_set_logo?img_id=902745&t=1690414359973" width="40" height="40" /> Analysis and Systems Development student's at <a href="https://www.ifsc.edu.br/">IFSC</a> </h4>
+<h4 align="left"> Analysis and Systems Development student's at <a href="https://www.ifsc.edu.br/">IFSC</a> </h4>
 
 <h3 align="left">Languages and Tools:</h3>
 
